@@ -4,7 +4,7 @@
   "description": "I will be diving deeper into unit testing in this repo in order to expand my knowledge on testing.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
