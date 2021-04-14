@@ -3,8 +3,8 @@ SF:jestTesting/cloneArray.js
 FN:1,cloneArray
 FNF:1
 FNH:1
-FNDA:2,cloneArray
-DA:2,2
+FNDA:4,cloneArray
+DA:2,4
 DA:5,1
 LF:2
 LH:2
@@ -16,8 +16,8 @@ SF:jestTesting/subtract.js
 FN:1,subtract
 FNF:1
 FNH:1
-FNDA:1,subtract
-DA:2,1
+FNDA:2,subtract
+DA:2,2
 DA:5,1
 LF:2
 LH:2
@@ -30,9 +30,9 @@ FN:1,sum
 FN:7,untestedFunction
 FNF:2
 FNH:1
-FNDA:1,sum
+FNDA:2,sum
 FNDA:0,untestedFunction
-DA:2,1
+DA:2,2
 DA:8,0
 DA:11,1
 LF:3
